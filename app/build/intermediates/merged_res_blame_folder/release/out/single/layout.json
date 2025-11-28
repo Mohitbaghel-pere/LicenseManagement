@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.licensemanagement.app-mergeReleaseResources-50:/layout/fragment_dashboard.xml",
+        "source": "com.licensemanagement.app-main-52:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.licensemanagement.app-mergeReleaseResources-50:/layout/fragment_customers.xml",
+        "source": "com.licensemanagement.app-main-52:/layout/fragment_customers.xml"
+    },
+    {
+        "merged": "com.licensemanagement.app-mergeReleaseResources-50:/layout/item_subscription_pack.xml",
+        "source": "com.licensemanagement.app-main-52:/layout/item_subscription_pack.xml"
+    },
+    {
+        "merged": "com.licensemanagement.app-mergeReleaseResources-50:/layout/fragment_subscription.xml",
+        "source": "com.licensemanagement.app-main-52:/layout/fragment_subscription.xml"
+    },
+    {
+        "merged": "com.licensemanagement.app-mergeReleaseResources-50:/layout/activity_login.xml",
+        "source": "com.licensemanagement.app-main-52:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.licensemanagement.app-mergeReleaseResources-50:/layout/activity_main.xml",
+        "source": "com.licensemanagement.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.licensemanagement.app-mergeReleaseResources-50:/layout/activity_signup.xml",
+        "source": "com.licensemanagement.app-main-52:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.licensemanagement.app-mergeReleaseResources-50:/layout/fragment_packs.xml",
+        "source": "com.licensemanagement.app-main-52:/layout/fragment_packs.xml"
+    }
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/subscriptionFragment">
+
+    <fragment
+        android:id="@+id/subscriptionFragment"
+        android:name="com.licensemanagement.app.ui.fragments.SubscriptionFragment"
+        android:label="Subscription"
+        tools:layout="@layout/fragment_subscription" />
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.licensemanagement.app.ui.fragments.DashboardFragment"
+        android:label="Dashboard"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/customersFragment"
+        android:name="com.licensemanagement.app.ui.fragments.CustomersFragment"
+        android:label="Customers"
+        tools:layout="@layout/fragment_customers" />
+
+    <fragment
+        android:id="@+id/packsFragment"
+        android:name="com.licensemanagement.app.ui.fragments.PacksFragment"
+        android:label="Packs"
+        tools:layout="@layout/fragment_packs" />
+
+</navigation>
+
